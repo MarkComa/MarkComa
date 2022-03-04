@@ -9,9 +9,8 @@
 * css
 
 Мои контакты: 
-* mail: aleksandrabramov.fed@gmail.com
-* telegram: @markcoma
-
+<div> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"> <span>  aleksandrabramov.fed@gmail.com</span> </div>
+<div> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"> <span> @markcoma</span> </div>
 <!--
 **MarkComa/MarkComa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
