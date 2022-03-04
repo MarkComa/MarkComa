@@ -8,7 +8,9 @@
 * html
 * css
 
-Эта страница будет доработана, в данный момент просто пробую данную функцию.
+Мои контакты: 
+* mail: aleksandrabramov.fed@gmail.com
+* telegram: @markcoma
 
 <!--
 **MarkComa/MarkComa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
