@@ -25,8 +25,18 @@
 
 
 #### Мои контакты: 
-<div> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"> <span>  aleksandrabramov.fed@gmail.com</span> </div>
-<div> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"> <span> @markcoma</span> </div>
+
+<span>
+  <a href="https://t.me/markcoma">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="telegram" height="28">
+  </a>
+</span>
+
+<span>
+  <a href="aleksandrabramov.fed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail.ru" height="28">
+  </a>
+</span>
 <!--
 **MarkComa/MarkComa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
